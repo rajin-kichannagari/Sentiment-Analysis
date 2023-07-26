@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 
 ## Overview
-The Sentiment Analysis Program is a simple Python script that uses the TextBlob library to perform sentiment analysis on a given sentence or piece of text. The program determines whether the sentiment of the input text is positive, negative, or neutral and provides the sentiment polarity and subjectivity scores.
+This is a simple Python script that uses the TextBlob library to perform sentiment analysis on a given sentence or piece of text. The program determines whether the sentiment of the input text is positive, negative, or neutral and provides the sentiment polarity and subjectivity scores.
 
 ## Requirements
 - Python 3.6+
