@@ -13,7 +13,7 @@
 
 ## Introduction
 
-The Social Media Sentiment Analyzer is a Python project that allows you to analyze the sentiment of text data, such as social media posts or user-generated content. It utilizes pre-trained language models and natural language processing techniques to determine the sentiment of the text as either positive, negative, or neutral.
+The Social Media Sentiment Analyzer allows you to analyze the sentiment of text data, such as social media posts or user-generated content. It utilizes pre-trained language models and natural language processing techniques to determine the sentiment of the text as either positive, negative, or neutral.
 
 ## Project Overview
 
