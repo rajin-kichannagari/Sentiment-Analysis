@@ -7,4 +7,4 @@ def analyze_sentiment(text):
     result = sentiment_analyzer(preprocessed_text)
     label = result[0]['label']
     score = result[0]['score']
-    return label, score/Users/rajinkichannagari/Desktop/rajin's programs/Twitter-Sentiment-Analysis/utils/text_preprocessing.py
+    return label, score
